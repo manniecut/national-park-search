@@ -27,7 +27,7 @@ Website URL
 */
 
 const apiKey = "On8es5K7u2ZRE2NyFcyerlaKhAMj97jRPtpjiuGs";
-const searchUrl = "http://developer.nps.gov/api/v1/parks";
+const searchUrl = "https://developer.nps.gov/api/v1/parks";
 
 function formatQueryString(params) {
     console.log('running formatQueryString')
